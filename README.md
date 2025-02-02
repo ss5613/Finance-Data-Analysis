@@ -1,1 +1,2 @@
 # Finance-Data-Analysis
+This project focuses on analyzing financial data for several major banks over a ten-year period (2006-2016). The analysis includes downloading stock data, calculating returns, visualizing data distributions, and identifying key trends and statistics. The project leverages Python libraries such as pandas, yfinance, seaborn, and plotly for data manipulation, visualization, and analysis.
